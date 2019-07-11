@@ -1,0 +1,34 @@
+{
+  "employee": [
+    {
+      "name": "han",
+      "gender": "Male",
+      "birthday": 1046710800000,
+      "id": 2
+    },
+    {
+      "name": "hang",
+      "gender": "Female",
+      "birthday": 623523600000,
+      "id": 3
+    },
+    {
+      "name": "Huong",
+      "gender": "Female",
+      "birthday": 923158800000,
+      "id": 4
+    },
+    {
+      "name": "hangnguyen",
+      "gender": "Female",
+      "birthday": 986403600000,
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "username": "Admin",
+      "password": "12345"
+    }
+  ]
+}
